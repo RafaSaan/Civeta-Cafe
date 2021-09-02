@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap");
+.header {
+  width: 100%;
+}
+.home {
+  width: 100%;
+  height: 100vh;
+  background: url(https://firebasestorage.googleapis.com/v0/b/civeta-san.appspot.com/o/coffe%20grains.png?alt=media&token=c3354494-7d15-4775-b746-4f8afc7a275b);
+}
+.home__container {
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+}
+.home__main {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  font-family: "Poppins", sans-serif;
+}

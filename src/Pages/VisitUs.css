@@ -1,0 +1,8 @@
+.visitUs {
+  width: 100%;
+  background: url(https://firebasestorage.googleapis.com/v0/b/civeta-san.appspot.com/o/visitanosBg.png?alt=media&token=afb8f309-a288-4c97-b3e7-b14ce7012729);
+}
+.visitBlur {
+  width: 100%;
+  background: rgb(0, 0, 0, 0.6);
+}
